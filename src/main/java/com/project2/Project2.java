@@ -20,7 +20,7 @@ import javafx.scene.control.ComboBox;
 import javafx.scene.control.Label;
 import javafx.scene.layout.VBox;
 import javafx.stage.Stage;
- 
+
 public class Project2 extends Application {
     // GUI components
     private ComboBox<String> shapeComboBox; // combo box to select the shape type
