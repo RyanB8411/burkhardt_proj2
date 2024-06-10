@@ -28,7 +28,7 @@ public class Project2 extends Application {
     private Button drawButton; // button to draw the shape
     private Canvas canvas; // canvas to draw on
  
-    @SuppressWarnings("exports")//Supress our exports warnings for error handling. I had to do this because it would not run unless surpressed
+    @SuppressWarnings("exports")//Suppress our exports warnings for error handling. I had to do this because it would not run unless suppressed
     @Override
     public void start(Stage primaryStage) {
         // create the GUI components
